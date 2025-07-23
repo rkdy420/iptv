@@ -8,8 +8,8 @@ Easily convert your **Stalker Portal login (URL + MAC + Serial + Device IDs)** i
 
 ## 🔐 Login Info
 
-👤 **Username**: `stalker`  
-🔑 **Password**: `stalker@123`
+👤 **Username**: `raman`  
+🔑 **Password**: `raman1`
 
 ---
 
